@@ -34,6 +34,7 @@ values."
      sql
      javascript
      markdown
+     java
      csv
      (auto-completion :variables
                       auto-completion-enable-help-tooltip t
